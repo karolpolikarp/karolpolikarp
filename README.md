@@ -25,4 +25,4 @@ Chief Specialist in the Innovative Public Policies Division at Poland's **Minist
 - **[Stefka](https://github.com/karolpolikarp/Stefka-PPLuM-macOS.Silicon)** — offline meeting transcription and summaries on Apple Silicon. mlx-whisper + PLLuM-12B, nothing leaves the machine. <sub>Python · MIT</sub>
 - **[Multi-Sequence-Clicker](https://github.com/karolpolikarp/Multi-Sequence-Clicker)** — auto-clicker with Bézier-curve cursor motion, so replayed sequences don't look robotic. <sub>Java · MIT</sub>
 
-**Elsewhere** · [karolwilczynski.com](https://karolwilczynski.com) · [LinkedIn](https://linkedin.com/in/karolpwilczynski) · karolpwilczynski@gmail.com
+**Elsewhere** · [karolwilczynski.com](https://karolwilczynski.com) · [LinkedIn](https://linkedin.com/in/karolpwilczynski) · czesc@karolwilczynski.com
