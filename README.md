@@ -2,9 +2,9 @@
 
 Chief Specialist in the Innovative Public Policies Division at Poland's **Ministry of Digital Affairs**, working on AI Act regulatory sandboxes. Lawyer by training — civil law, public procurement, data protection. Outside that I build and run production systems, mostly self-hosted on a Raspberry Pi.
 
-<img src="https://karolwilczynski.com/assets/images/zorza.webp" width="330" alt="Zorza dashboard: multi-column feeds of Telegram, RSS and sensor items, each row carrying a credibility score and source attribution"> <img src="https://karolwilczynski.com/assets/images/zorza-karta.webp" width="330" alt="Credibility card for a single item: the rules behind the score and how many independent channels corroborate it">
+<a href="https://zorza.karolwilczynski.com"><img src="https://karolwilczynski.com/assets/images/zorza.webp" width="330" alt="Zorza — multi-column dashboard of Telegram, RSS and sensor items, each row carrying a credibility score and source attribution"></a> <a href="https://jakieprawo.pl"><img src="https://karolwilczynski.com/assets/images/obraz_2026-01-09_205957107.webp" width="330" alt="JakiePrawo.pl — a plain-language question answered with the exact statute, article and a link to the official text"></a>
 
-<img src="https://karolwilczynski.com/assets/images/zorza-mapa.webp" width="330" alt="Event map: geolocated items clustered by area of interest"> <img src="https://karolwilczynski.com/assets/images/zorza-zapytaj.webp" width="330" alt="Ask the archive: a natural-language question answered from 58,134 entries, citing the source items">
+<a href="https://upfor.pl"><img src="https://karolwilczynski.com/assets/images/upfor.webp" width="330" alt="UpFor.pl — weekly availability grid rendered as an overlap heatmap for a group"></a> <a href="https://parawan.karolwilczynski.com"><img src="https://karolwilczynski.com/assets/images/parawan.webp" width="330" alt="Parawan — source text on the left, the same text with personal data masked on the right"></a>
 
 **What I run**
 
