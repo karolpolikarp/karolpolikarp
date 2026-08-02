@@ -1,4 +1,4 @@
-### Karol Polikarp Wilczyński | u/karolpolikarp | karolwilczynski.com
+### Karol Polikarp Wilczyński | @karolpolikarp | karolwilczynski.com
 
 Chief Specialist in the Innovative Public Policies Division at Poland's **Ministry of Digital Affairs**, working on AI Act implementation and on putting AI to work across public administration. Lawyer by training. Outside that I build and run production systems end to end. Cloud where managed infrastructure earns its price, a self-hosted Raspberry Pi where it doesn't.
 
