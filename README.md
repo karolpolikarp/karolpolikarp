@@ -40,10 +40,10 @@ Node 20 · Fastify 5 · SQLite + FTS5 · React 18 · Claude Haiku 4.5 for what t
 
 <table>
 <tr>
-<td><a href="https://jakieprawo.pl"><img src="https://karolwilczynski.com/assets/images/obraz_2026-01-09_205957107.webp" width="210" alt="JakiePrawo.pl — a plain-language question answered with the exact statute and article"></a></td>
-<td><a href="https://upfor.pl"><img src="https://karolwilczynski.com/assets/images/upfor.webp" width="210" alt="UpFor.pl — shared availability heatmap across a group"></a></td>
-<td><a href="https://majeranek.vercel.app"><img src="https://karolwilczynski.com/assets/images/majeranek.webp" width="210" alt="Majeranek — drag-and-drop tier list feeding cross-media recommendations"></a></td>
-<td><a href="https://replica.karolwilczynski.com"><img src="https://karolwilczynski.com/assets/images/margiela.webp" width="210" alt="AutoMargiela — price history across three retailers with buy-signal markers"></a></td>
+<td><a href="https://jakieprawo.pl"><img src="https://karolwilczynski.com/assets/images/obraz_2026-01-09_205957107.webp" height="120" alt="JakiePrawo.pl — a plain-language question answered with the exact statute and article"></a></td>
+<td><a href="https://upfor.pl"><img src="https://karolwilczynski.com/assets/images/upfor.webp" height="120" alt="UpFor.pl — shared availability heatmap across a group"></a></td>
+<td><a href="https://majeranek.vercel.app"><img src="https://karolwilczynski.com/assets/images/majeranek.webp" height="120" alt="Majeranek — drag-and-drop tier list feeding cross-media recommendations"></a></td>
+<td><a href="https://replica.karolwilczynski.com"><img src="https://karolwilczynski.com/assets/images/margiela.webp" height="120" alt="AutoMargiela — price history across three retailers with buy-signal markers"></a></td>
 </tr>
 </table>
 
