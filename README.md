@@ -2,7 +2,7 @@
 
 Chief Specialist in the Innovative Public Policies Division at Poland's **Ministry of Digital Affairs**, working on AI Act regulatory sandboxes. Lawyer by training — civil law, public procurement, data protection. Outside that I build and run production systems, mostly self-hosted on a Raspberry Pi.
 
-<img src="https://karolwilczynski.com/assets/images/zorza.webp" width="100%" alt="Zorza dashboard: multi-column feeds of Telegram, RSS and sensor items, each row carrying a credibility score and source attribution">
+<img src="https://karolwilczynski.com/assets/images/zorza.webp" width="620" alt="Zorza dashboard: multi-column feeds of Telegram, RSS and sensor items, each row carrying a credibility score and source attribution">
 
 **What I run**
 
