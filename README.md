@@ -1,6 +1,6 @@
 ### Karol Polikarp Wilczyński
 
-Chief Specialist in the Innovative Public Policies Division at Poland's **Ministry of Digital Affairs**, working on AI Act implementation and on putting AI to work across public administration. Lawyer by training. Outside that I build and run production systems end to end — cloud where managed infrastructure earns its price, a self-hosted Raspberry Pi where it doesn't.
+Chief Specialist in the Innovative Public Policies Division at Poland's **Ministry of Digital Affairs**, working on AI Act implementation and on putting AI to work across public administration. Lawyer by training. Outside that I build and run production systems end to end. Cloud where managed infrastructure earns its price, a self-hosted Raspberry Pi where it doesn't.
 
 <div align="center">
 <a href="https://zorza.karolwilczynski.com"><img src="https://karolwilczynski.com/assets/images/zorza.webp" height="230" alt="Zorza — multi-column dashboard of Telegram, RSS and sensor items, each row carrying a credibility score and source attribution"></a> <a href="https://jakieprawo.pl"><img src="https://karolwilczynski.com/assets/images/obraz_2026-01-09_205957107.webp" height="230" alt="JakiePrawo.pl — a plain-language question answered with the exact statute, article and a link to the official text"></a>
